@@ -36,11 +36,17 @@ body {
   margin-top: 20px;
 }
 
+#kontainerKonsulDokter {
+  background-color: #08cad1;
+  margin-top: 20px;
+}
+
 #kontainerUmumBelajar,
 #kontainerUmumSoal,
 #kontainerDokterBelajarSingkat,
 #kontainerDokterBelajarLengkap,
-#kontainerDokterSoal {
+#kontainerDokterSoal,
+#kontainerKonsulDokter {
   display: flex;
   flex-direction: column;
   width: 50%;
